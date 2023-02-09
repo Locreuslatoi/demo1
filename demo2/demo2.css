@@ -25,3 +25,5 @@ a{
     display: none;
   }
 }
+
+$(element).clone(false).appendTo(destination);
